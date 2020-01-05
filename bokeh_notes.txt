@@ -1,0 +1,13 @@
+Basic
+======
+ - Add figure (one per plot)
+ - Add title
+ - Add grid
+ - Create ColumnDataSource (dict or pandas df)
+ - Add glyphs (ex: points with circles, triangles, squares, ...)
+ - Add legend
+ - Add tooltip (defined in tools, can define custom html)
+ - Add label(s)
+ - Configure grid plots (multiple plot in grid alignment)
+ - Add span (custom vertical/horizontal lines)
+ - Add box annotation (rectangular area box)
